@@ -1,0 +1,334 @@
+/* Vector */
+
+
+position: absolute;
+width: 4px;
+height: 4px;
+left: 264px;
+top: 351px;
+
+border: 1px solid #47F56D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse */
+
+
+position: absolute;
+width: 60px;
+height: 57px;
+left: 305.54px;
+top: 12px;
+
+mix-blend-mode: hard-light;
+border: 3px solid #FFFBFB;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Vector 2.3 */
+
+
+position: absolute;
+width: 4px;
+height: 2.5px;
+left: 361.54px;
+top: 33px;
+
+border: 7px solid #47F56D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* R */
+
+
+position: absolute;
+width: 30px;
+height: 25px;
+left: 320.54px;
+top: 29px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Vector */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 354.54px;
+top: 20px;
+
+border: 1px solid #47F56D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Polygon */
+
+
+position: absolute;
+width: 10px;
+height: 8px;
+left: 359.81px;
+top: 23.06px;
+
+background: #FAFAFA;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: matrix(0.85, 0.5, -0.53, 0.86, 0, 0);
+
+
+/* Vector 2.4 */
+
+
+position: absolute;
+width: 4px;
+height: 2.5px;
+left: 310.94px;
+top: 22.17px;
+
+border: 7px solid #47F56D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: matrix(0.98, 0.18, -0.19, 0.98, 0, 0);
+
+
+/* Vector 2.5 */
+
+
+position: absolute;
+width: 4px;
+height: 2.5px;
+left: 333.77px;
+top: 64px;
+
+border: 7px solid #47F56D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: matrix(0.47, 0.87, -0.9, 0.46, 0, 0);
+
+
+/* Polygon */
+
+
+position: absolute;
+width: 10px;
+height: 8px;
+left: 308.59px;
+top: 21.3px;
+
+background: #FAFAFA;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: matrix(0.9, 0.43, -0.45, 0.9, 0, 0);
+
+
+/* Polygon */
+
+
+position: absolute;
+width: 10px;
+height: 8px;
+left: 346.38px;
+top: 68.8px;
+
+background: #FAFAFA;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: matrix(-0.85, 0.5, -0.53, -0.86, 0, 0);
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 120px;
+height: 120px;
+left: 125px;
+top: 116px;
+
+background: #FFFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 2.1 */
+
+
+position: absolute;
+width: 120px;
+height: 120px;
+left: 125px;
+top: 316px;
+
+background: #FFFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 2.2 */
+
+
+position: absolute;
+width: 120px;
+height: 120px;
+left: 125px;
+top: 527px;
+
+background: #FFFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* 69-512 */
+
+
+position: absolute;
+width: 76px;
+height: 98px;
+left: 153px;
+top: 127px;
+
+background: url(69-512.png);
+border-radius: 28px;
+
+
+/* download */
+
+
+position: absolute;
+width: 68px;
+height: 72px;
+left: 151px;
+top: 340px;
+
+background: url(download.png);
+
+
+/* images */
+
+
+position: absolute;
+width: 87px;
+height: 72px;
+left: 141px;
+top: 551px;
+
+background: url(images.png);
+
+
+/* DISPOSE WASTE */
+
+
+position: absolute;
+width: 141px;
+height: 20px;
+left: 120px;
+top: 246px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FAFAFA;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* ECO-FOOTPRINT */
+
+
+position: absolute;
+width: 141px;
+height: 20px;
+left: 120px;
+top: 656px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FAFAFA;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* RECYCLE */
+
+
+position: absolute;
+width: 77px;
+height: 20px;
+left: 151px;
+top: 445px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FAFAFA;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Capture2 */
+
+
+position: absolute;
+width: 38px;
+height: 35px;
+left: 56.03px;
+top: 27.03px;
+
+background: url(Capture2.png);
+mix-blend-mode: darken;
+border: 1px solid #FFFBFB;
+box-sizing: border-box;
+transform: rotate(90.1deg);
+
+
+/* OPTIONS */
+
+
+position: absolute;
+width: 73px;
+height: 20px;
+left: 8px;
+top: 69px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* REDUCE . REUSE . RECYCLE */
+
+
+position: absolute;
+width: 191px;
+height: 18px;
+left: 86px;
+top: 791px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
